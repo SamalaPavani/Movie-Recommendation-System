@@ -22,4 +22,4 @@ NumPy
 
 Pandas
 
-Matplotlib
+Matplotlib.
